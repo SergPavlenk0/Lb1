@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Lb1_Pavlenko\Lb1_Pavlenko\bin\Debug\Lb1_Pavlenko.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Lb1_Pavlenko\Lb1_Pavlenko\bin\Debug\Lb1_Pavlenko.exe
+c:\users\user\documents\visual studio 2015\Projects\Lb1_Pavlenko\Lb1_Pavlenko\bin\Debug\Lb1_Pavlenko.pdb
+c:\users\user\documents\visual studio 2015\Projects\Lb1_Pavlenko\Lb1_Pavlenko\obj\Debug\Lb1_Pavlenko.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Lb1_Pavlenko\Lb1_Pavlenko\obj\Debug\Lb1_Pavlenko.exe
+c:\users\user\documents\visual studio 2015\Projects\Lb1_Pavlenko\Lb1_Pavlenko\obj\Debug\Lb1_Pavlenko.pdb
