@@ -11,6 +11,7 @@ namespace Lb1_Pavlenko
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("hi!");
             Console.ReadLine();
         }
     }
